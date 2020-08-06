@@ -9,3 +9,9 @@ body {
 .navbar-dark .navbar-nav .nav-link {
   color: rgb(105,105,105);
 }
+
+#sideNav .navbar-nav .nav-item .nav-link {
+  text-align: left;
+  padding-left: 3em;
+}
+  
