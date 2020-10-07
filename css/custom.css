@@ -1,10 +1,9 @@
 body {
   font-family: "Open Sans", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Helvetica, Arial, Tahoma, sans-serif;
 
-/*
 .bg-primary {
   background-color: #fff;
-} */
+}
 
 .navbar-dark .navbar-nav .nav-link {
   color: rgb(105,105,105);
