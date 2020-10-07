@@ -4,7 +4,9 @@
 }
 
 body {
-  font-family: "Open Sans", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Helvetica, Arial, Tahoma, sans-serif;
+  font-family: "Source Sans Pro"; 
+
+ /* font-family: "Open Sans", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Helvetica, Arial, Tahoma, sans-serif; */
 
 .bg-primary {
   background-color: #fff !important;
