@@ -1,6 +1,7 @@
 #sideNav .navbar-nav .nav-item .nav-link {
  color: #868e96;
- text-align: left; 
+ text-align: left;
+ margin-left: 1.4em;
 }
 
 body {
